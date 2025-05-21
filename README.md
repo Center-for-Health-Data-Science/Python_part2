@@ -4,6 +4,8 @@
 <p align="center">
   <img src="teachers/figures/tsunami_logo.PNG" width="600">
 
+Please help us by filling out our [feedback form](https://forms.office.com/e/t9GstXjjCG). We really appreciate your comments.
+
 # Python part 2
 
 The links in the schedule will bring you directly to colab. Use Ctrl+click/Cmd+click to open in a new tab. 
