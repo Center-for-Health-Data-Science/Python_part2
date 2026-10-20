@@ -4,7 +4,7 @@
 <p align="center">
   <img src="teachers/figures/tsunami_logo.PNG" width="600">
 
-Please help us by filling out our [feedback form]([https://forms.office.com/e/t9GstXjjCG](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kX-So6HNlkaviYyfHO_6kaKwKoywcVlMq5OaNsGbwftURDVHQ05UUTMxTlVHOFRJTllKOEYzOVlEMCQlQCN0PWcu)). We really appreciate your comments.
+Please help us by filling out our [feedback form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kX-So6HNlkaviYyfHO_6kaKwKoywcVlMq5OaNsGbwftURDVHQ05UUTMxTlVHOFRJTllKOEYzOVlEMCQlQCN0PWcu). We really appreciate your comments.
 
 # Python part 2
 
