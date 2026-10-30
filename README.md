@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="teachers/figures/LogoPythonII.PNG" width="600">
+  <img src="teachers/figures/LogoPythonII.PNG" width="1000">
 </p>
 
 Please help us by filling out our [feedback form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kX-So6HNlkaviYyfHO_6kaKwKoywcVlMq5OaNsGbwftURDVHQ05UUTMxTlVHOFRJTllKOEYzOVlEMCQlQCN0PWcu). We really appreciate your comments.
